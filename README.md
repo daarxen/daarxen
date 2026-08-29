@@ -63,7 +63,7 @@ Happy coding! 🚀
 ### Some stats!
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2018%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -90,32 +90,32 @@ Sunday                   13435 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 16 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.09 % 
-JSON                     1 hr 49 mins        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.31 % 
-Markdown                 1 hr 39 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.98 % 
-HTML                     16 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.17 % 
-Other                    16 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.09 % 
+TypeScript               2 hrs 16 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.67 % 
+JSON                     1 hr 50 mins        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.39 % 
+Markdown                 1 hr 43 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.49 % 
+HTML                     16 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.12 % 
+Other                    16 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   53.27 % 
-Claude Code              3 hrs 6 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   46.73 % 
+VS Code                  3 hrs 33 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.61 % 
+Claude Code              3 hrs 11 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   47.39 % 
 
 💻 Operating System: 
-Mac                      6 hrs 40 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      6 hrs 45 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 20 mins (65.14%)
+⏱ AI Coding Time: 4 hrs 25 mins (65.57%)
 
 ✍️ 1,026 lines written by AI, 8,391 lines written by hand (10.9% AI-written)
 
-🔤 928,069 Input Tokens, 134,190 Output Tokens
+🔤 980,546 Input Tokens, 138,431 Output Tokens
 
-💵 $35.36 Estimated AI Cost This Week
+💵 $36.38 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 37 AI Prompts
+🧠 7 AI Sessions, 40 AI Prompts
 
 Fable                    762 lines           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜   74.27 % 
 Opus                     264 lines           ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.73 % 
@@ -123,11 +123,11 @@ Github-Copilot           0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 10.9% of written lines came from AI
-📝 Concise Prompter — average 219 characters per prompt
+📝 Concise Prompter — average 206 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 94.18% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/08/2026 11:30:58 UTC
+ Last Updated on 29/08/2026 07:15:10 UTC
 <!--END_SECTION:waka-->
