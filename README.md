@@ -63,14 +63,14 @@ Happy coding! 🚀
 ### Some stats!
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2056%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                26674 commits       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   23.29 % 
 🌆 Daytime                50660 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.23 % 
-🌃 Evening                34789 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.37 % 
+🌃 Evening                34791 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.37 % 
 🌙 Night                  2419 commits        ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.11 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -80,7 +80,7 @@ Monday                   20445 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 Tuesday                  18160 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.85 % 
 Wednesday                17565 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.33 % 
 Thursday                 17268 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.08 % 
-Friday                   14487 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.65 % 
+Friday                   14489 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.65 % 
 Saturday                 13162 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.49 % 
 Sunday                   13455 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.75 % 
 ```
@@ -90,42 +90,42 @@ Sunday                   13455 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 53 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.83 % 
-TypeScript               34 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.66 % 
-Other                    25 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.49 % 
-Git Config               23 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.17 % 
-YAML                     21 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.89 % 
+Python                   11 hrs 34 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜   90.66 % 
+CSV                      20 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.65 % 
+Markdown                 16 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.10 % 
+YAML                     13 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.79 % 
+Other                    10 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.32 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 49 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.16 % 
-Claude Code              5 hrs 33 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.84 % 
+VS Code                  8 hrs 7 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   63.67 % 
+Claude Code              4 hrs 38 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.33 % 
 
 💻 Operating System: 
-Mac                      12 hrs 23 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      12 hrs 46 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 45 mins (70.67%)
+⏱ AI Coding Time: 8 hrs 38 mins (67.7%)
 
-✍️ 1,258 lines written by AI, 23,016 lines written by hand (5.18% AI-written)
+✍️ 1,221 lines written by AI, 33,036 lines written by hand (3.56% AI-written)
 
-🔤 2,617,356 Input Tokens, 265,330 Output Tokens
+🔤 2,626,536 Input Tokens, 245,345 Output Tokens
 
-💵 $46.27 Estimated AI Cost This Week
+💵 $41.13 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 93 AI Prompts
+🧠 9 AI Sessions, 89 AI Prompts
 
-Opus                     1,525 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Opus                     1,221 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.18% of written lines came from AI
-📝 Concise Prompter — average 367 characters per prompt
+🧑‍💻 Mostly Hands-On — 3.56% of written lines came from AI
+📄 Detailed Prompter — average 672 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 96.52% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 04:42:55 UTC
+ Last Updated on 12/09/2026 04:43:32 UTC
 <!--END_SECTION:waka-->
